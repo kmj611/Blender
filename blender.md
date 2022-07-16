@@ -28,9 +28,6 @@
 - 위치 정확하게 이동
     - 뷰포트 상단 중앙에 자석모양 아이콘
         - 기본값:1m 단위로 이동(Increment)
-
-
-## 오브젝트 지정
 - Z키를 눌려서 Wireframe/Rendered/Solid/Material Previer 모드 선택 가능
     - Wireframe:뼈대만 보기
     - Rendered:실제 Rendering 결과 보기
