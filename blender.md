@@ -1,4 +1,4 @@
-# 블랜더
+# Blender
 ###### 출처:[youtube](https://youtube.com/playlist?list=PLjJclwOF6pOfy1hNnzaLhNzfnSzH_2Vy0)
 
 ## 시점
